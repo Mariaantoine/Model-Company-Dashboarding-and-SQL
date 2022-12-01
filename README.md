@@ -17,4 +17,7 @@ KPIS where developed aiming to explore and better understand the different dimen
 
 Then, all sql scripts where imported in POWER BI for the dashboard realisation.
 
-I have made a short video demonstration of the POWER BI dashboarding
+![ezgif com-gif-maker](https://user-images.githubusercontent.com/113359703/205074491-9c80213e-61b9-4b24-88e0-ee98af7fe01f.gif)
+
+
+I have made a short video demonstration of the POWER BI dashboarding which is downloadable and in mp4 version.
