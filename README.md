@@ -21,3 +21,4 @@ Then, all sql scripts where imported in POWER BI for the dashboard realisation.
 
 
 I have made a short video demonstration of the POWER BI dashboarding which is downloadable and in mp4 version.
+Link towards powerBI service in order to display the dashboard: https://app.powerbi.com/links/vYXzZtyDkU?ctid=9d359b5f-6c86-4aaa-88b0-c9427be438de&pbi_source=linkShare&bookmarkGuid=46a48afe-6227-40eb-b775-bc66212b66b8
